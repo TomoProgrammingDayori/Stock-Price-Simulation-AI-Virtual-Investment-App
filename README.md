@@ -1,3 +1,52 @@
+# Stock Price Simulation & AI Virtual Investment App
+
+---
+
+## 📌 Overview
+
+This is a web application for simulating stock price movements and performing AI-driven virtual investment strategies.  
+Each week, the app automatically sends a report summarizing virtual investment results, while the AI re-evaluates and updates its strategy based on recent market conditions.  
+Users receive notifications about buy/sell signals, making it a helpful tool for studying investment decision-making.
+
+---
+
+## 🔧 Key Features
+
+- 📈 **Stock Price Simulation**  
+  Simulates stock price fluctuations using methods such as random walks.
+
+- 🧠 **AI-Driven Strategy Updates**  
+  Rebuilds investment strategies weekly based on recent market trends (e.g., buy → hold → sell decisions).
+
+- 📬 **Automated Report Delivery**  
+  Sends a weekly email with virtual investment performance reports (implemented using Python’s email libraries).
+
+- 🔔 **Buy/Sell Signal Notifications**  
+  Notifies users when the AI detects buy or sell signals (via email or in-app notifications).
+
+---
+
+## 🛠 Tech Stack
+
+- Python (Flask)
+- pandas / numpy / scikit-learn (AI logic and calculations)
+- matplotlib (graph generation)
+- SMTP (email sending)
+- SQLite (lightweight DB) or file-based data storage
+
+---
+
+## 🔒 Disclaimer
+
+- This app is for virtual investment and simulation purposes **only**.  
+- It is **not** intended for actual investment decisions.  
+- Developed as a learning and experimental project.
+
+---
+
+> “Simulate the markets, explore strategies — all powered by AI.”
+
+
 # 株価シミュレーション＆AI仮想投資アプリ
 
 ## 📌 概要
