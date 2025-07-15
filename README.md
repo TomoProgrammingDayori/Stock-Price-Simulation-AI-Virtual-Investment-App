@@ -1,7 +1,8 @@
-# Stock Price Simulation & AI Virtual Investment App
+# Stock Price Simulation & AI Virtual Investment App  
 （株価シミュレーション＆AI仮想投資アプリ）
 
-> “Simulate the markets, explore AI strategies — all in a virtual environment.”
+> **“Simulate the markets, explore AI strategies — all in a virtual environment.”**  
+> 「株価の動きをシミュレーションし、AI戦略を仮想環境で検証するWebアプリ。」
 
 ---
 
@@ -78,7 +79,7 @@ MIT License
 
 # 株価シミュレーション＆AI仮想投資アプリ
 
-> 「株価の動きをシミュレーションし、AI戦略を仮想環境で検証するWebアプリ。」
+> **「株価の動きをシミュレーションし、AI戦略を仮想環境で検証するWebアプリ。」**
 
 ---
 
