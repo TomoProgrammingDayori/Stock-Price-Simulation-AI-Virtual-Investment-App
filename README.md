@@ -1,3 +1,8 @@
+<p>
+    <img width="1536" height="1024" alt="段落テキスト (11)" src="https://github.com/user-attachments/assets/63683cd5-4102-47be-aec3-9bc26a654ad2" />
+
+</p>
+
 # 株価シミュレーション＆AI仮想投資アプリ
 
 > **「株価の動きをシミュレーションし、AI戦略を仮想環境で検証するWebアプリ。」**
