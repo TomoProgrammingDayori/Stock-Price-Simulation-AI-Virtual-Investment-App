@@ -1,8 +1,6 @@
 <p>
-    <img width="1536" height="1024" alt="段落テキスト (11)" src="https://github.com/user-attachments/assets/63683cd5-4102-47be-aec3-9bc26a654ad2" />
-
+<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/968a3a79-f1cf-45cc-bb76-d684fa731216" />
 </p>
-
 
 # 株価シミュレーション＆AI仮想投資アプリ
 
